@@ -1,0 +1,3 @@
+[submodule "vendor/iso3166-csv"]
+	path = vendor/iso3166-csv
+	url = https://github.com/ipregistry/iso3166.git
